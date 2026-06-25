@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/VivekShukla-2504/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/VivekShukla-2504/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/VivekShukla-2504/LeetCode/tree/master/1934-confirmation-rate) |
 ## Divide and Conquer
 |  |
 | ------- |
