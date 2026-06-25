@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/VivekShukla-2504/LeetCode/tree/master/0177-nth-highest-salary) |
+| [1148-article-views-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/VivekShukla-2504/LeetCode/tree/master/1683-invalid-tweets) |
 ## Divide and Conquer
 |  |
