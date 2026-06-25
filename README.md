@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/VivekShukla-2504/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/VivekShukla-2504/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/VivekShukla-2504/LeetCode/tree/master/0595-big-countries) |
+| [1068-product-sales-analysis-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/VivekShukla-2504/LeetCode/tree/master/1280-students-and-examinations) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/VivekShukla-2504/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
