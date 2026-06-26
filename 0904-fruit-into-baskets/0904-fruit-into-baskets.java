@@ -4,7 +4,6 @@ class Solution {
         //int[] freq = new int[26];
         int left = 0;
         int ans = 0;
-        int maxFreq = 0;
         for(int right = 0; right < fruits.length; right++) {
            
             map.put(fruits[right], map.getOrDefault(fruits[right], 0) + 1);
