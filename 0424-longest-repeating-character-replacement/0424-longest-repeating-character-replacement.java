@@ -11,7 +11,7 @@ class Solution {
             map.put(ch,map.getOrDefault(ch,0)+1);
            //freq[ch - 'A']++;
             maxFreq = Math.max(maxFreq, map.get(ch));
-            if  ((right - left + 1) - maxFreq > k) 
+            while ((right - left + 1) - maxFreq > k) 
             {
                map.put(s.charAt(left), map.get(s.charAt(left)) - 1);
                left++;
