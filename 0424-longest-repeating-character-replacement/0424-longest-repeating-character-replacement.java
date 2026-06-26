@@ -1,7 +1,7 @@
 class Solution {
     public int characterReplacement(String s, int k) {
      
-        HashMap<Character,Integer> map = new HashMap<>();
+        HashMap<Character,Integer> map = new HashMap<>(26);
         //int[] freq = new int[26];
         int left = 0;
         int ans = 0;
