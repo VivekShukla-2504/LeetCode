@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VivekShukla-2504/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekShukla-2504/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/VivekShukla-2504/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/VivekShukla-2504/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VivekShukla-2504/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/VivekShukla-2504/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0904-fruit-into-baskets](https://github.com/VivekShukla-2504/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/VivekShukla-2504/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
