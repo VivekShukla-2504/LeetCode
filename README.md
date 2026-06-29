@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VivekShukla-2504/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0173-binary-search-tree-iterator](https://github.com/VivekShukla-2504/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/VivekShukla-2504/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VivekShukla-2504/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Database
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/VivekShukla-2504/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VivekShukla-2504/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VivekShukla-2504/LeetCode/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/VivekShukla-2504/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/VivekShukla-2504/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/VivekShukla-2504/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekShukla-2504/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/VivekShukla-2504/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VivekShukla-2504/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VivekShukla-2504/LeetCode/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/VivekShukla-2504/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/VivekShukla-2504/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/VivekShukla-2504/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekShukla-2504/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/VivekShukla-2504/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/VivekShukla-2504/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/VivekShukla-2504/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekShukla-2504/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VivekShukla-2504/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/VivekShukla-2504/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -225,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/VivekShukla-2504/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/VivekShukla-2504/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VivekShukla-2504/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/VivekShukla-2504/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/VivekShukla-2504/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
