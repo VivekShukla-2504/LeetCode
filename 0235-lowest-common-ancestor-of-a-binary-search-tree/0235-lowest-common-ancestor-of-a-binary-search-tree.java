@@ -13,7 +13,7 @@ class Solution {
     {
     if(root == null)
     {
-        return null;
+        return root;
     }
     if(root.val<p.val && root.val <q.val)
     {
