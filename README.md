@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/VivekShukla-2504/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/VivekShukla-2504/LeetCode/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VivekShukla-2504/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/VivekShukla-2504/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/VivekShukla-2504/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/VivekShukla-2504/LeetCode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/0189-rotate-array) |
 | [0904-fruit-into-baskets](https://github.com/VivekShukla-2504/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VivekShukla-2504/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/VivekShukla-2504/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/VivekShukla-2504/LeetCode/tree/master/0118-pascals-triangle) |
 ## Monotonic Stack
 |  |
