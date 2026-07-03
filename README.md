@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/VivekShukla-2504/LeetCode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/VivekShukla-2504/LeetCode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/0229-majority-element-ii) |
 ## Merge Sort
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VivekShukla-2504/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/VivekShukla-2504/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/VivekShukla-2504/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/VivekShukla-2504/LeetCode/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/VivekShukla-2504/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VivekShukla-2504/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/VivekShukla-2504/LeetCode/tree/master/0152-maximum-product-subarray) |
