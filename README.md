@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/VivekShukla-2504/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/VivekShukla-2504/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/VivekShukla-2504/LeetCode/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VivekShukla-2504/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/VivekShukla-2504/LeetCode/tree/master/1323-maximum-69-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekShukla-2504/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/VivekShukla-2504/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/VivekShukla-2504/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0412-fizz-buzz](https://github.com/VivekShukla-2504/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/VivekShukla-2504/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/VivekShukla-2504/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/VivekShukla-2504/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/VivekShukla-2504/LeetCode/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VivekShukla-2504/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VivekShukla-2504/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
