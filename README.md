@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VivekShukla-2504/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VivekShukla-2504/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VivekShukla-2504/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VivekShukla-2504/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VivekShukla-2504/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VivekShukla-2504/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/VivekShukla-2504/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/VivekShukla-2504/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VivekShukla-2504/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VivekShukla-2504/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Sliding Window
 |  |
 | ------- |
