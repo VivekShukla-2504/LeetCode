@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/VivekShukla-2504/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VivekShukla-2504/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/VivekShukla-2504/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/VivekShukla-2504/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/VivekShukla-2504/LeetCode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/VivekShukla-2504/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
