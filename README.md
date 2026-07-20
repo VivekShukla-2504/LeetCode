@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VivekShukla-2504/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/VivekShukla-2504/LeetCode/tree/master/1323-maximum-69-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VivekShukla-2504/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Recursion
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/VivekShukla-2504/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VivekShukla-2504/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VivekShukla-2504/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VivekShukla-2504/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VivekShukla-2504/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VivekShukla-2504/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VivekShukla-2504/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VivekShukla-2504/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/VivekShukla-2504/LeetCode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/VivekShukla-2504/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VivekShukla-2504/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -211,11 +215,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VivekShukla-2504/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VivekShukla-2504/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VivekShukla-2504/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VivekShukla-2504/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VivekShukla-2504/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Tree
 |  |
 | ------- |
@@ -339,4 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/VivekShukla-2504/LeetCode/tree/master/1323-maximum-69-number) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/VivekShukla-2504/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/VivekShukla-2504/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
