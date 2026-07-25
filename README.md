@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VivekShukla-2504/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/VivekShukla-2504/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/VivekShukla-2504/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/VivekShukla-2504/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/VivekShukla-2504/LeetCode/tree/master/0070-climbing-stairs) |
