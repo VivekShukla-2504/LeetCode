@@ -16,18 +16,14 @@ class Solution {
             return memo[i][j][k];
         }
 
-        // Optimization: Compress contiguous boxes of the same color starting at index i
         int originalI = i;
         int originalK = k;
         while (i + 1 <= j && boxes[i] == boxes[i + 1]) {
             i++;
             k++;
         }
-
-        // Option 1: Remove boxes[i] and all contiguous/preceding matching boxes immediately
         int maxPoints = (k + 1) * (k + 1) + calculatePoints(boxes, i + 1, j, 0);
 
-        // Option 2: Look for another box with the same color further to the right
         for (int m = i + 1; m <= j; m++) {
             if (boxes[m] == boxes[i]) {
                 int currentPoints = calculatePoints(boxes, i + 1, m - 1, 0) 
