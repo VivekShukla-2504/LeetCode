@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/VivekShukla-2504/LeetCode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/1025-divisor-game) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1977-number-of-ways-to-separate-numbers](https://github.com/VivekShukla-2504/LeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VivekShukla-2504/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/VivekShukla-2504/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/VivekShukla-2504/LeetCode/tree/master/1816-truncate-sentence) |
+| [1977-number-of-ways-to-separate-numbers](https://github.com/VivekShukla-2504/LeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VivekShukla-2504/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VivekShukla-2504/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VivekShukla-2504/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VivekShukla-2504/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1977-number-of-ways-to-separate-numbers](https://github.com/VivekShukla-2504/LeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VivekShukla-2504/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
