@@ -35,11 +35,7 @@ class Solution {
             cherries += grid[r1][c1] + grid[r2][c2];
         }
 
-        // Explore 4 possible moves for Person 1 and Person 2:
-        // 1. Person 1 Down, Person 2 Down
-        // 2. Person 1 Down, Person 2 Right
-        // 3. Person 1 Right, Person 2 Down
-        // 4. Person 1 Right, Person 2 Right
+       
         int maxNext = Math.max(
             Math.max(dp(grid, r1 + 1, c1, r2 + 1, n), dp(grid, r1 + 1, c1, r2, n)),
             Math.max(dp(grid, r1, c1 + 1, r2 + 1, n), dp(grid, r1, c1 + 1, r2, n))
