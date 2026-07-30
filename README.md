@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/VivekShukla-2504/LeetCode/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/VivekShukla-2504/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0741-cherry-pickup](https://github.com/VivekShukla-2504/LeetCode/tree/master/0741-cherry-pickup) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/VivekShukla-2504/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0904-fruit-into-baskets](https://github.com/VivekShukla-2504/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/VivekShukla-2504/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VivekShukla-2504/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/VivekShukla-2504/LeetCode/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/VivekShukla-2504/LeetCode/tree/master/0546-remove-boxes) |
 | [0741-cherry-pickup](https://github.com/VivekShukla-2504/LeetCode/tree/master/0741-cherry-pickup) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/VivekShukla-2504/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0913-cat-and-mouse](https://github.com/VivekShukla-2504/LeetCode/tree/master/0913-cat-and-mouse) |
 | [1025-divisor-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/1025-divisor-game) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0871-minimum-number-of-refueling-stops](https://github.com/VivekShukla-2504/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1323-maximum-69-number](https://github.com/VivekShukla-2504/LeetCode/tree/master/1323-maximum-69-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -414,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/VivekShukla-2504/LeetCode/tree/master/0913-cat-and-mouse) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0871-minimum-number-of-refueling-stops](https://github.com/VivekShukla-2504/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 <!---LeetCode Topics End-->
