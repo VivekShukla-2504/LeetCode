@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VivekShukla-2504/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/VivekShukla-2504/LeetCode/tree/master/1323-maximum-69-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VivekShukla-2504/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VivekShukla-2504/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/VivekShukla-2504/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/VivekShukla-2504/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VivekShukla-2504/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/VivekShukla-2504/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Breadth-First Search
 |  |
