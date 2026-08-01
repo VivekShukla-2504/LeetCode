@@ -1,29 +1,18 @@
 import java.util.*;
 
 class Solution {
-    // Memoization table using a HashMap with encoded Long key
+    
     private Map<Long, int[]> memo;
 
     public int minMaxWaitingTime(int[] demand, int[] fuel) {
         memo = new HashMap<>();
         
-        // Result array format: [maxCarsServed, minMaxWaitTime]
+        
         int[] res = dfs(0, fuel[0], fuel[1], 0, 0, demand);
         
-        // If no cars can be served, return -1
         return res[0] == 0 ? -1 : res[1];
     }
 
-    /**
-     * DFS Function to evaluate assignment choices.
-     * 
-     * @param i  Current car index
-     * @param f0 Remaining fuel in dispenser 0
-     * @param f1 Remaining fuel in dispenser 1
-     * @param w0 Time remaining until dispenser 0 becomes free
-     * @param w1 Time remaining until dispenser 1 becomes free
-     * @return int[] array: {maxCarsServed, minMaxWaitTime}
-     */
     private int[] dfs(int i, int f0, int f1, int w0, int w1, int[] demand) {
        
         if (i == demand.length) {
