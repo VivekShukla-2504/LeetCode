@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/VivekShukla-2504/LeetCode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/VivekShukla-2504/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/VivekShukla-2504/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/VivekShukla-2504/LeetCode/tree/master/0913-cat-and-mouse) |
 | [1025-divisor-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VivekShukla-2504/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/VivekShukla-2504/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0741-cherry-pickup](https://github.com/VivekShukla-2504/LeetCode/tree/master/0741-cherry-pickup) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/VivekShukla-2504/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0877-stone-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/VivekShukla-2504/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/VivekShukla-2504/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VivekShukla-2504/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/VivekShukla-2504/LeetCode/tree/master/0546-remove-boxes) |
 | [0741-cherry-pickup](https://github.com/VivekShukla-2504/LeetCode/tree/master/0741-cherry-pickup) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/VivekShukla-2504/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0877-stone-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/VivekShukla-2504/LeetCode/tree/master/0913-cat-and-mouse) |
 | [1025-divisor-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/1025-divisor-game) |
 | [1027-longest-arithmetic-subsequence](https://github.com/VivekShukla-2504/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/VivekShukla-2504/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/VivekShukla-2504/LeetCode/tree/master/0913-cat-and-mouse) |
 | [1025-divisor-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/1025-divisor-game) |
 ## Greedy
