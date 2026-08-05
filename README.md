@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VivekShukla-2504/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/VivekShukla-2504/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VivekShukla-2504/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3310-remove-methods-from-project](https://github.com/VivekShukla-2504/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/VivekShukla-2504/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/VivekShukla-2504/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VivekShukla-2504/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3310-remove-methods-from-project](https://github.com/VivekShukla-2504/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Design
 |  |
 | ------- |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/VivekShukla-2504/LeetCode/tree/master/0913-cat-and-mouse) |
+| [3310-remove-methods-from-project](https://github.com/VivekShukla-2504/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
