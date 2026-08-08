@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VivekShukla-2504/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VivekShukla-2504/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VivekShukla-2504/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VivekShukla-2504/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1406-stone-game-iii) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/VivekShukla-2504/LeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VivekShukla-2504/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VivekShukla-2504/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VivekShukla-2504/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VivekShukla-2504/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Combinatorics
 |  |
