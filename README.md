@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/VivekShukla-2504/LeetCode/tree/master/0913-cat-and-mouse) |
 | [1025-divisor-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VivekShukla-2504/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/VivekShukla-2504/LeetCode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VivekShukla-2504/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VivekShukla-2504/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1027-longest-arithmetic-subsequence](https://github.com/VivekShukla-2504/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
+| [1140-stone-game-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VivekShukla-2504/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VivekShukla-2504/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/VivekShukla-2504/LeetCode/tree/master/0913-cat-and-mouse) |
 | [1025-divisor-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/1025-divisor-game) |
 | [1027-longest-arithmetic-subsequence](https://github.com/VivekShukla-2504/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
+| [1140-stone-game-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1406-stone-game-iii) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/VivekShukla-2504/LeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/VivekShukla-2504/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/VivekShukla-2504/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VivekShukla-2504/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VivekShukla-2504/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/VivekShukla-2504/LeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/VivekShukla-2504/LeetCode/tree/master/0913-cat-and-mouse) |
 | [1025-divisor-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
@@ -468,4 +473,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
