@@ -17,7 +17,7 @@ class Solution {
     public boolean isValidBST(TreeNode root) {
        return BST(root,Long.MIN_VALUE,Long.MAX_VALUE);
     }
-    public boolean BST(TreeNode root,long min,long max)
+    public boolean BST(TreeNode root , long min , long max)
     {
         if(root == null)
         {
@@ -27,6 +27,6 @@ class Solution {
         {
             return false;
         }
-       return BST(root.left,min,root.val)&&BST(root.right,root.val,max);
+        return BST(root.left,min,root.val)&&BST(root.right,root.val,max);
     }
 }
