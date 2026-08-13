@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VivekShukla-2504/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/VivekShukla-2504/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/VivekShukla-2504/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/VivekShukla-2504/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/VivekShukla-2504/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/VivekShukla-2504/LeetCode/tree/master/0048-rotate-image) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekShukla-2504/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/VivekShukla-2504/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VivekShukla-2504/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/VivekShukla-2504/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/VivekShukla-2504/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -515,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VivekShukla-2504/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/VivekShukla-2504/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
