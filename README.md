@@ -525,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VivekShukla-2504/LeetCode/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/VivekShukla-2504/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
