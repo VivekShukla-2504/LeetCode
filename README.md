@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VivekShukla-2504/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VivekShukla-2504/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VivekShukla-2504/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VivekShukla-2504/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/VivekShukla-2504/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/VivekShukla-2504/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VivekShukla-2504/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/VivekShukla-2504/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VivekShukla-2504/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Breadth-First Search
 |  |
 | ------- |
