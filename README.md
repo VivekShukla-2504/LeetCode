@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VivekShukla-2504/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VivekShukla-2504/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/VivekShukla-2504/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/VivekShukla-2504/LeetCode/tree/master/2029-stone-game-ix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/VivekShukla-2504/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VivekShukla-2504/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1563-stone-game-v](https://github.com/VivekShukla-2504/LeetCode/tree/master/1563-stone-game-v) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VivekShukla-2504/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VivekShukla-2504/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/VivekShukla-2504/LeetCode/tree/master/1816-truncate-sentence) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VivekShukla-2504/LeetCode/tree/master/1510-stone-game-iv) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1563-stone-game-v](https://github.com/VivekShukla-2504/LeetCode/tree/master/1563-stone-game-v) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/VivekShukla-2504/LeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VivekShukla-2504/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Monotonic Stack
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VivekShukla-2504/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/VivekShukla-2504/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/VivekShukla-2504/LeetCode/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
