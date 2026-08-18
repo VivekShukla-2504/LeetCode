@@ -1,29 +1,14 @@
-import java.util.*;
-
 class Solution {
-    public int largestInteger(int[] nums, int k) {
-        int n = nums.length;
-        Map<Integer, Integer> subarrayCount = new HashMap<>();
+    public int largestInteger(int[] A, int k) {
+        int[] f = new int[51];
+        for (int x : A)
+            f[x]++;
 
-        // Count how many subarrays of size k contain each number
-        for (int i = 0; i <= n - k; i++) {
-            Set<Integer> uniqueInSubarray = new HashSet<>();
-            for (int j = i; j < i + k; j++) {
-                uniqueInSubarray.add(nums[j]);
-            }
-            for (int num : uniqueInSubarray) {
-                subarrayCount.put(num, subarrayCount.getOrDefault(num, 0) + 1);
-            }
-        }
+        int res = -1, n = A.length;
+        for (int i = 0; i < n; i++) 
+            if (k == n || (f[A[i]] == 1 && (k == 1 || i == 0 || i == n - 1)))
+                res = Math.max(res, A[i]);
 
-        // Find the maximum number that appears in exactly 1 subarray
-        int maxVal = -1;
-        for (Map.Entry<Integer, Integer> entry : subarrayCount.entrySet()) {
-            if (entry.getValue() == 1) {
-                maxVal = Math.max(maxVal, entry.getKey());
-            }
-        }
-
-        return maxVal;
+        return res;
     }
 }
