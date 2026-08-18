@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VivekShukla-2504/LeetCode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/VivekShukla-2504/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/VivekShukla-2504/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/VivekShukla-2504/LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/VivekShukla-2504/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/VivekShukla-2504/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/VivekShukla-2504/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VivekShukla-2504/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VivekShukla-2504/LeetCode/tree/master/0053-maximum-subarray) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekShukla-2504/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/VivekShukla-2504/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/VivekShukla-2504/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VivekShukla-2504/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/VivekShukla-2504/LeetCode/tree/master/0032-longest-valid-parentheses) |
