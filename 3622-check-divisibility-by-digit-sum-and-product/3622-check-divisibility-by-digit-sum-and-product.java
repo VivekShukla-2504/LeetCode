@@ -1,20 +1,17 @@
 class Solution {
-    public boolean checkDivisibility(int n) 
-    {
+    public boolean checkDivisibility(int n) {
         int x = 0;
         int y = 1;
         int ori = n;
-        if(n<=0)
-        {
+        if (n <= 0) {
             return false;
         }
-        while(n>0)
-        {
-             x= x+(n%10);
-             y= y*(n%10);
-             n = n/10;
+        while (n > 0) {
+            x = x + (n % 10);
+            y = y * (n % 10);
+            n = n / 10;
         }
-        
-        return ori % (x+y) == 0;
+
+        return ori % (x + y) == 0;
     }
 }
