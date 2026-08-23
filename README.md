@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VivekShukla-2504/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/VivekShukla-2504/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/VivekShukla-2504/LeetCode/tree/master/2029-stone-game-ix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/VivekShukla-2504/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VivekShukla-2504/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/VivekShukla-2504/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/VivekShukla-2504/LeetCode/tree/master/1816-truncate-sentence) |
+| [1927-sum-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/1927-sum-game) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/VivekShukla-2504/LeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VivekShukla-2504/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VivekShukla-2504/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VivekShukla-2504/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/VivekShukla-2504/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/VivekShukla-2504/LeetCode/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/VivekShukla-2504/LeetCode/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/VivekShukla-2504/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1927-sum-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/VivekShukla-2504/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
