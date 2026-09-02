@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VivekShukla-2504/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekShukla-2504/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/VivekShukla-2504/LeetCode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/VivekShukla-2504/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/VivekShukla-2504/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/VivekShukla-2504/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/VivekShukla-2504/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/VivekShukla-2504/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/VivekShukla-2504/LeetCode/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/VivekShukla-2504/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/VivekShukla-2504/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/VivekShukla-2504/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/VivekShukla-2504/LeetCode/tree/master/0051-n-queens) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/VivekShukla-2504/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/VivekShukla-2504/LeetCode/tree/master/0048-rotate-image) |
 | [0741-cherry-pickup](https://github.com/VivekShukla-2504/LeetCode/tree/master/0741-cherry-pickup) |
 ## Queue
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/VivekShukla-2504/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/VivekShukla-2504/LeetCode/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Memoization
@@ -603,4 +607,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VivekShukla-2504/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/VivekShukla-2504/LeetCode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/VivekShukla-2504/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
