@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/VivekShukla-2504/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VivekShukla-2504/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/VivekShukla-2504/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0065-valid-number](https://github.com/VivekShukla-2504/LeetCode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/VivekShukla-2504/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/VivekShukla-2504/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/VivekShukla-2504/LeetCode/tree/master/0412-fizz-buzz) |
