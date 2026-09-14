@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/VivekShukla-2504/LeetCode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/VivekShukla-2504/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/VivekShukla-2504/LeetCode/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/VivekShukla-2504/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/VivekShukla-2504/LeetCode/tree/master/0913-cat-and-mouse) |
 | [1025-divisor-game](https://github.com/VivekShukla-2504/LeetCode/tree/master/1025-divisor-game) |
@@ -633,4 +634,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/VivekShukla-2504/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/VivekShukla-2504/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
