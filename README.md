@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/VivekShukla-2504/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [4059-lexicographically-largest-power-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/4059-lexicographically-largest-power-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/VivekShukla-2504/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/VivekShukla-2504/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VivekShukla-2504/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4059-lexicographically-largest-power-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/4059-lexicographically-largest-power-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VivekShukla-2504/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VivekShukla-2504/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4059-lexicographically-largest-power-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/4059-lexicographically-largest-power-array) |
 ## Combinatorics
 |  |
 | ------- |
