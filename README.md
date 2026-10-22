@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/VivekShukla-2504/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/VivekShukla-2504/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/VivekShukla-2504/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/VivekShukla-2504/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/VivekShukla-2504/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VivekShukla-2504/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/VivekShukla-2504/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/VivekShukla-2504/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/VivekShukla-2504/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/VivekShukla-2504/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/VivekShukla-2504/LeetCode/tree/master/0231-power-of-two) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/VivekShukla-2504/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/VivekShukla-2504/LeetCode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/VivekShukla-2504/LeetCode/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Memoization
 |  |
