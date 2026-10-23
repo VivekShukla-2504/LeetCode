@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/VivekShukla-2504/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/VivekShukla-2504/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/VivekShukla-2504/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/VivekShukla-2504/LeetCode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/VivekShukla-2504/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/VivekShukla-2504/LeetCode/tree/master/0412-fizz-buzz) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/VivekShukla-2504/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/VivekShukla-2504/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/VivekShukla-2504/LeetCode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/VivekShukla-2504/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/VivekShukla-2504/LeetCode/tree/master/0260-single-number-iii) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/VivekShukla-2504/LeetCode/tree/master/0204-count-primes) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VivekShukla-2504/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/VivekShukla-2504/LeetCode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VivekShukla-2504/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/VivekShukla-2504/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -668,4 +672,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/VivekShukla-2504/LeetCode/tree/master/0836-rectangle-overlap) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VivekShukla-2504/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VivekShukla-2504/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VivekShukla-2504/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
