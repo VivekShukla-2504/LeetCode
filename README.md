@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/VivekShukla-2504/LeetCode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/VivekShukla-2504/LeetCode/tree/master/0242-valid-anagram) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VivekShukla-2504/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VivekShukla-2504/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VivekShukla-2504/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/VivekShukla-2504/LeetCode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VivekShukla-2504/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/VivekShukla-2504/LeetCode/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VivekShukla-2504/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VivekShukla-2504/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/VivekShukla-2504/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/VivekShukla-2504/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VivekShukla-2504/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VivekShukla-2504/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
