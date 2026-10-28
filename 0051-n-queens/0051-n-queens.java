@@ -1,44 +1,37 @@
 class Solution {
-    List<List<String>> res = new ArrayList<>();
     public List<List<String>> solveNQueens(int n) {
-        char[][] board = new char[n][n];
-        for (int i = 0; i < n; i++) {
-            Arrays.fill(board[i], '.');
-        }
-        generate(board, 0);
+        List<List<String>> res = new ArrayList<>();
+        int[] queens = new int[n];
+        boolean[] cols = new boolean[n];
+        boolean[] diag1 = new boolean[2 * n];
+        boolean[] diag2 = new boolean[2 * n];
+        
+        dfs(0, n, queens, cols, diag1, diag2, res);
         return res;
     }
-    public void generate(char[][] board, int row) {
-        if (row == board.length) {
-            List<String> list = new ArrayList<>();
-            for (int i = 0; i < board.length; i++) {
-                list.add(new String(board[i]));
+
+    private void dfs(int row, int n, int[] queens, boolean[] cols, boolean[] diag1, boolean[] diag2, List<List<String>> res) {
+        if (row == n) {
+            List<String> board = new ArrayList<>();
+            for (int r = 0; r < n; r++) {
+                char[] line = new char[n];
+                Arrays.fill(line, '.');
+                line[queens[r]] = 'Q';
+                board.add(new String(line));
             }
-            res.add(list);
+            res.add(board);
             return;
         }
-        for (int col = 0; col < board[row].length; col++) {
-            if (isSafe(board, row, col)) {
-                board[row][col] = 'Q';
-                generate(board, row + 1);
-                board[row][col] = '.'; 
+
+        for (int c = 0; c < n; c++) {
+            int d1 = row - c + n;
+            int d2 = row + c;
+            if (!cols[c] && !diag1[d1] && !diag2[d2]) {
+                queens[row] = c;
+                cols[c] = diag1[d1] = diag2[d2] = true;
+                dfs(row + 1, n, queens, cols, diag1, diag2, res);
+                cols[c] = diag1[d1] = diag2[d2] = false;
             }
         }
-    }
-    public boolean isSafe(char[][] board, int row, int col) {
-       
-        for (int i = 0; i < row; i++) {
-            if (board[i][col] == 'Q') return false;
-        }
-        
-        int maxLeft=Math.min(row,col);
-        for(int i=1;i<=maxLeft;i++){
-            if(board[row-i][col-i]=='Q') return false;
-        }
-        int maxRight=Math.min(row,board.length-1-col);
-        for(int i=1;i<=maxRight;i++){
-            if(board[row-i][col+i]=='Q') return false;
-        }
-        return true;
     }
 }
