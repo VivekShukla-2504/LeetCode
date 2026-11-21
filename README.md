@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/VivekShukla-2504/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [4059-lexicographically-largest-power-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/4059-lexicographically-largest-power-array) |
+| [4100-minimum-cost-path-with-even-xor-parity](https://github.com/VivekShukla-2504/LeetCode/tree/master/4100-minimum-cost-path-with-even-xor-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/VivekShukla-2504/LeetCode/tree/master/1563-stone-game-v) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/VivekShukla-2504/LeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VivekShukla-2504/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [4100-minimum-cost-path-with-even-xor-parity](https://github.com/VivekShukla-2504/LeetCode/tree/master/4100-minimum-cost-path-with-even-xor-parity) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/VivekShukla-2504/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VivekShukla-2504/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VivekShukla-2504/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [4100-minimum-cost-path-with-even-xor-parity](https://github.com/VivekShukla-2504/LeetCode/tree/master/4100-minimum-cost-path-with-even-xor-parity) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/VivekShukla-2504/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VivekShukla-2504/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3310-remove-methods-from-project](https://github.com/VivekShukla-2504/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [4100-minimum-cost-path-with-even-xor-parity](https://github.com/VivekShukla-2504/LeetCode/tree/master/4100-minimum-cost-path-with-even-xor-parity) |
 ## Binary Tree
 |  |
 | ------- |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/VivekShukla-2504/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VivekShukla-2504/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4059-lexicographically-largest-power-array](https://github.com/VivekShukla-2504/LeetCode/tree/master/4059-lexicographically-largest-power-array) |
+| [4100-minimum-cost-path-with-even-xor-parity](https://github.com/VivekShukla-2504/LeetCode/tree/master/4100-minimum-cost-path-with-even-xor-parity) |
 ## Breadth-First Search
 |  |
 | ------- |
